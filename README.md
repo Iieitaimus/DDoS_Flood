@@ -4,5 +4,5 @@
 
 # Usage
 ```
-python3 flooder.py example.com 443 1000
+python3 flood.py example.com 443 1000
 ```
